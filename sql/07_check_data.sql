@@ -1,0 +1,1 @@
+SELECT count(*) FROM OUR_FIRST_DB.PUBLIC.employees;

@@ -1,0 +1,1 @@
+LIST @MANAGE_DB.external_stages.csv_folder;
